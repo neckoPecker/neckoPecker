@@ -2,4 +2,6 @@
 
 My name is Vaughn Chan, and I am in my third year of Software Engineering at York University. I am most interested in embedded systems, machine learning, and general software development using C++, Python, or Java.
 
-While you're here, why not check out some of my projects?
+While you're here, why not check out some of my projects? 
+
+Wanna know more about me? Check me out on my [[https://neckoPecker.github.io][website]]!
